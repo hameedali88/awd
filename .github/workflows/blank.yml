@@ -28,7 +28,7 @@ jobs:
 
       env:
 
-        NGROK_AUTH_TOKEN: ${{ secrets.NGROK_AUTH_TOKEN }}
+        NGROK_AUTH_TOKEN: 2jbg8wUgIg13PDZj1UUzulqvCKA_VZxpQ6Ho8fBTGVDDJua1
 
     - name: Enable TS
 
